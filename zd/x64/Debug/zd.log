@@ -1,0 +1,14 @@
+﻿  node.cpp
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\node.cpp(12,1): error C2955: "Node": для использования класс шаблон требуется список аргументов шаблон
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\node.h(8): message : см. объявление "Node"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\node.cpp(13,1): error C2270: getArray: модификаторы недопустимы для функций, не являющихся членами
+  set.cpp
+  zd.cpp
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\set.cpp(12,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\set.cpp(7): message : во время компиляции функции-члена класс шаблон "void Set<char>::Enter(void)"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\zd.cpp(19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Set<char>::Enter(void)"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\zd.cpp(17): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<char>"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\set.cpp(27,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\set.cpp(23): message : во время компиляции функции-члена класс шаблон "void Set<char>::Show(void)"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd_end_2\zd\zd\zd.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Set<char>::Show(void)"
+  Создание кода...
