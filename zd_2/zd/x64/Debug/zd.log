@@ -1,0 +1,9 @@
+﻿  zd.cpp
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd____\zd\zd\zd.cpp(52,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd____\zd\zd\zd.cpp(48): message : во время компиляции функции-члена класс шаблон "void Set<int>::Enter(void)"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd____\zd\zd\zd.cpp(184): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Set<int>::Enter(void)"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd____\zd\zd\zd.cpp(182): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Set<int>"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd____\zd\zd\zd.cpp(65,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd____\zd\zd\zd.cpp(63): message : во время компиляции функции-члена класс шаблон "void Set<int>::Show(void)"
+C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd____\zd\zd\zd.cpp(185): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Set<int>::Show(void)"
+  zd.vcxproj -> C:\Users\nikit\Desktop\Semester_2\Kuznetsov_I_V\lr_3\zd____\zd\x64\Debug\zd.exe
